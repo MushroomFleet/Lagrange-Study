@@ -7,6 +7,7 @@ A comparative study exploring AI capabilities in scientific visualization throug
 This research project tasked advanced AI models with creating topographical contour maps of the Solar System's Lagrange points—critical equilibrium positions in celestial mechanics where gravitational forces balance. The study compares:
 
 - **Code Generation Approach**: Gemini 3 Pro Preview generating physics-simulation Python scripts
+![example1](https://github.com/MushroomFleet/Lagrange-Study/blob/main/Gemini3Pro/images/Map3_Archipelago_Corrected_2K.png)
 - **Image Generation Approach**: Nano Banana Pro creating visual representations from prompts
 
 ## 📊 Three Visualization Maps
@@ -125,3 +126,4 @@ This project is provided for educational and research purposes.
 - Gemini 3 Pro Preview for physics simulation code generation
 - Nano Banana Pro for visual interpretation and artistic rendering
 - The celestial mechanics research community for R3BP models
+
